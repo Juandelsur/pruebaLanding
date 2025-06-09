@@ -122,8 +122,8 @@ biblioteca-alejo-carpentier/
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**  
-Estudiante de Programación Front End  
+**Juan Muñoz Haro**  
+Estudiante de Analista Programador 
 INACAP - 2025
 
 ## 📝 Notas del Desarrollo
