@@ -64,7 +64,7 @@ biblioteca-alejo-carpentier/
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/biblioteca-alejo-carpentier.git
+   git clone https://github.com/Juandelsur/biblioteca-alejo-carpentier.git
    ```
 
 2. **Navegar al directorio**:
@@ -143,4 +143,4 @@ Este proyecto fue creado con fines académicos como parte del curso de Programac
 
 ⭐ Si te gusta este proyecto, no dudes en darle una estrella en GitHub
 
-🔗 **Enlace del proyecto**: [https://juandelsur.github.io/biblioteca-alejo-carpentier](https://juandelsur.github.io/biblioteca-alejo-carpentier)
+🔗 **Enlace del proyecto**: [https://Juandelsur.github.io/biblioteca-alejo-carpentier](https://Juandelsur.github.io/biblioteca-alejo-carpentier)
