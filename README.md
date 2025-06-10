@@ -143,4 +143,4 @@ Este proyecto fue creado con fines académicos como parte del curso de Programac
 
 ⭐ Si te gusta este proyecto, no dudes en darle una estrella en GitHub
 
-🔗 **Enlace del proyecto**: [https://Juandelsur.github.io/biblioteca-alejo-carpentier](https://Juandelsur.github.io/biblioteca-alejo-carpentier)
+🔗 **Enlace del proyecto**: [https://Juandelsur.github.io/pruebaLanding/](https://Juandelsur.github.io/pruebaLanding/)
